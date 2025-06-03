@@ -5,7 +5,7 @@ from groq import Groq
 
 # Initialize Groq client
 client = Groq(
-    api_key="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"
+    api_key=""
 )
 
 # Elasticsearch setup
